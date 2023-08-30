@@ -1,4 +1,4 @@
-package toys;
+package App;
 
 public enum ToyTypes {
     Doll, Constructor, Robot

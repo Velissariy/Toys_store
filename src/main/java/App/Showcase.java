@@ -1,6 +1,6 @@
-package toys;
+package App;
 
-import java.util.ArrayList;
+import App.toys.Toy;
 import java.util.ArrayList;
 
 public class Showcase {

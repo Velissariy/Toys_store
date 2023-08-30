@@ -1,6 +1,6 @@
-package toys;
+package App;
 
-import toys.Toy;
+import App.toys.Toy;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

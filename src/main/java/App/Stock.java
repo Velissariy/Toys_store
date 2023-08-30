@@ -1,9 +1,9 @@
-package toys;
+package App;
 
-import org.example.toyShop.toys.Constructor;
-import org.example.toyShop.toys.Doll;
-import org.example.toyShop.toys.Robot;
-import org.example.toyShop.toys.Toy;
+import App.toys.Constructor;
+import App.toys.Doll;
+import App.toys.Robot;
+import App.toys.Toy;
 
 public class Stock {
     int lastToyId;
